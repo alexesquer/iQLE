@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "download_url": "https://github.com/alexesquer/iQLE/blob/main/installer/iqle-setup_1.0.0-0_windows_all.nipkg",
+  "download_url": "https://github.com/alexesquer/iQLE/raw/refs/heads/main/installer/iqle-setup_1.0.0-0_windows_all.nipkg",
   "release_notes": "Bug fixes and performance improvements."
 }
